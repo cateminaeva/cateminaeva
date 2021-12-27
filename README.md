@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Cate - QA Engineer at @ Netology
-[LinkedIn](https://www.linkedin.com/) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white mailto:cate.minaeva@gmail.com) 
+[LinkedIn](https://www.linkedin.com/) [Gmail](mailto:cate.minaeva@gmail.com) 
 
 I'm a QA Engineer with 2 years of professional experience in quality assurance.
 
