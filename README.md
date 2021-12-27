@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 I'm Cate - QA Engineer at @ Netology
+https://www.linkedin.com/
+
+I'm a QA Engineer with 2 years of professional experience in quality assurance.
 
 <!--
 **cateminaeva/cateminaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
