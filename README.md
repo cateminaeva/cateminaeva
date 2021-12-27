@@ -1,10 +1,10 @@
 ### Hi 👋 I'm Cate - QA Engineer at Netology
-[LinkedIn](https://www.linkedin.com/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cate.minaeva@gmail.com) 
 
-I'm a QA Engineer with 2 years of professional experience in quality assurance.
 
 <!--
+I'm a QA Engineer with 2 years of professional experience in quality assurance.
 **cateminaeva/cateminaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
