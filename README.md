@@ -1,4 +1,4 @@
-### Hi 👋 I'm Cate - QA Engineer at @ Netology
+### Hi 👋 I'm Cate - QA Engineer at Netology
 [LinkedIn](https://www.linkedin.com/) [Gmail](mailto:cate.minaeva@gmail.com) 
 
 I'm a QA Engineer with 2 years of professional experience in quality assurance.
